@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/AmbiencePlayer.dir/ambienceplayer.c.o  -o AmbiencePlayer 

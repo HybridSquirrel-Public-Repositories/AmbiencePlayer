@@ -1,0 +1,3 @@
+/home/squirrel/Projects/C/AmbiencePlayer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/squirrel/Projects/C/AmbiencePlayer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/squirrel/Projects/C/AmbiencePlayer/cmake-build-debug/CMakeFiles/AmbiencePlayer.dir
