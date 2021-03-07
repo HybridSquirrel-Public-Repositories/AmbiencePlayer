@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/squirrel/Projects/C/MusicPlayer Select CMakeLists.txt
